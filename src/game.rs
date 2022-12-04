@@ -39,8 +39,8 @@ impl Game {
             food_exist: true,
             food_x: 5,
             food_y: 3,
-            width: width,
-            height: height,
+            width,
+            height,
             is_game_over: false,
         }
     }
